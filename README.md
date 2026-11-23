@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Raider54/EdwardPython/refs/heads/main/snake%20(1).svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Raider54/Raider54/refs/heads/main/snake%20(1).svg" alt="Snake animation" />
 
 ###
 
